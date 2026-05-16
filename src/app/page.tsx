@@ -215,7 +215,7 @@ export default function Home() {
     {!isFullscreen && (
         <footer className="absolute inset-x-0 bottom-0 z-20 py-4 px-6 text-[11px] md:text-xs text-neutral-500 dark:text-neutral-500 flex items-center justify-center bg-gradient-to-t from-neutral-100/80 dark:from-neutral-900/70 via-neutral-100/40 dark:via-neutral-900/30 to-transparent backdrop-blur-sm border-t border-neutral-200/60 dark:border-neutral-800/60">
           <span className="flex items-center gap-1">
-            © 2025 <a href="https://karthiklal.in" target="_blank" rel="noopener noreferrer" className="font-medium text-neutral-700 dark:text-neutral-300 hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors underline-offset-2 hover:underline">Zonely</a>. All rights reserved.
+            © 2026 <a href="https://nitinjha.pw" target="_blank" rel="noopener noreferrer" className="font-medium text-neutral-700 dark:text-neutral-300 hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors underline-offset-2 hover:underline">Zonely</a>. All rights reserved.
           </span>
         </footer>
       )}
