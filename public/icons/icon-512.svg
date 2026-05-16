@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="black"/>
+  <circle cx="256" cy="256" r="200" stroke="white" stroke-width="20"/>
+  <path d="M256 120v160l120 72" stroke="white" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="470" font-size="110" text-anchor="middle" fill="white" font-family="sans-serif">WT</text>
+</svg>
